@@ -1,5 +1,5 @@
 # Memory-Game
-Food Pair matching game in JavaScript, HTML and CSS
+Food Pair matching game in JavaScript, HTML and CSS.
 To open the game:
 
 Download all files.
